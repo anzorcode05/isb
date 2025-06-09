@@ -1,0 +1,9 @@
+{
+  "public_key" : "public_key.pem",
+  "private_key" : "private_key.pem",
+  "encrypted_symmetric_key" : "encrypted_symmetric_key.bin",
+  "original_text" : "original_text.txt",
+  "encrypted_text" : "encrypted_text.txt",
+  "decrypted_text" : "decrypted_text.txt",
+  "key_size": 256
+}
