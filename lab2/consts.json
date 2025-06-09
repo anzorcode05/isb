@@ -1,0 +1,7 @@
+{
+  "m": 8,
+  "pi": [0.2148, 0.3672, 0.2305, 0.1875],
+  "sequence_cpp": "sequence_cpp.txt",
+  "sequence_java": "sequence_java.txt",
+  "result": "result.json"
+}

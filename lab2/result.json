@@ -1,0 +1,8 @@
+{
+    "C++ frequency bit test": 0.8596837951986662,
+    "Java frequency bit test": 0.4795001221869535,
+    "C++ identical bit sequence": 0.2899841563937249,
+    "Java identical bit sequence": 0.39923839789091575,
+    "C++ longest run of ones": 0.26745460619217515,
+    "Java longest run of ones": 0.21815226058275772
+}
